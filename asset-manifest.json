@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jeffersonjjs.github.io/csb-yz1yvf/static/css/main.26b8fedc.chunk.css",
+    "main.js": "https://jeffersonjjs.github.io/csb-yz1yvf/static/js/main.8db81a45.chunk.js",
+    "main.js.map": "https://jeffersonjjs.github.io/csb-yz1yvf/static/js/main.8db81a45.chunk.js.map",
+    "runtime-main.js": "https://jeffersonjjs.github.io/csb-yz1yvf/static/js/runtime-main.3ff498ca.js",
+    "runtime-main.js.map": "https://jeffersonjjs.github.io/csb-yz1yvf/static/js/runtime-main.3ff498ca.js.map",
+    "static/js/2.b26afbd3.chunk.js": "https://jeffersonjjs.github.io/csb-yz1yvf/static/js/2.b26afbd3.chunk.js",
+    "static/js/2.b26afbd3.chunk.js.map": "https://jeffersonjjs.github.io/csb-yz1yvf/static/js/2.b26afbd3.chunk.js.map",
+    "index.html": "https://jeffersonjjs.github.io/csb-yz1yvf/index.html",
+    "static/css/main.26b8fedc.chunk.css.map": "https://jeffersonjjs.github.io/csb-yz1yvf/static/css/main.26b8fedc.chunk.css.map",
+    "static/js/2.b26afbd3.chunk.js.LICENSE.txt": "https://jeffersonjjs.github.io/csb-yz1yvf/static/js/2.b26afbd3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ff498ca.js",
+    "static/js/2.b26afbd3.chunk.js",
+    "static/css/main.26b8fedc.chunk.css",
+    "static/js/main.8db81a45.chunk.js"
+  ]
+}
